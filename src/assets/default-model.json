@@ -1,0 +1,38 @@
+[
+    {
+        "type": "title",
+        "value": "Primitive html constructor",
+        "options": {
+            "level": 2,
+            "style": {
+                "background": "linear-gradient(to right, purple, black)",
+                "color": "#fff",
+                "text-align": "center"
+            }
+        }
+    },
+    {
+        "type": "text",
+        "value": "You can dynamically add elements to the page from panel on the left"
+    },
+    {
+        "type": "columns",
+        "value": ["You", "can", "add", "columns"]
+    },
+    {
+        "type": "image",
+        "value": null,
+        "options": {
+            "style": {
+                "padding": "2rem 0",
+                "display": "flex",
+                "justify-content": "center"
+            },
+            "imgStyle": {
+                "width": "500px",
+                "height": "500px",
+                "object-fit": "contain"
+            }
+        }
+    }
+]
